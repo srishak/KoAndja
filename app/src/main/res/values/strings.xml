@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KoAndja</string>
+    <string name="desp">This is an self learning mobile application which contains Android,Kotlin and CoreJava Tutorials</string>
+    <string name="title_activity_kot">KotActivity</string>
+    <string name="title_activity_and">AndActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="android_tutorials">Android Tutorials</string>
+    <string name="kotlin_tutorials">kotlin Tutorials</string>
+    <string name="corejava_tutorials">CoreJava Tutorials</string>
+
+    <string name="sample_codes">Sample Codes</string>
+
+
+</resources>

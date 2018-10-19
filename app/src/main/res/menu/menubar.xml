@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/and"
+        android:orderInCategory="100"
+        android:title="@string/android_tutorials"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/kot"
+        android:orderInCategory="100"
+        android:title="@string/kotlin_tutorials"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ja"
+        android:orderInCategory="100"
+        android:title="@string/corejava_tutorials"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sc"
+        android:orderInCategory="100"
+        android:title="@string/sample_codes"
+        app:showAsAction="never" />
+</menu>

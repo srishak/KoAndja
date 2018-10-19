@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3d52c9</color>
+    <color name="colorPrimaryDark">#a35e0a</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryand">#39ab09</color>
+    <color name="colorPrimaryDarkand">#336608</color>
+    <color name="colorAccentand">#e2381a</color>
+
+    <color name="colorPrimarykot">#7a41dc</color>
+    <color name="colorPrimaryDarkkot">#4b079f</color>
+    <color name="colorAccentkot">#e97322</color>
+
+    <color name="colorPrimaryjav">#e74046</color>
+    <color name="colorPrimaryDarkjav">#7e0406</color>
+    <color name="colorAccentjav">#935f06</color>
+
+    <color name="colorPrimarysc">#844d04</color>
+    <color name="colorPrimaryDarksc">#68490c</color>
+    <color name="colorAccentsc">#935f06</color>
+    </resources>
